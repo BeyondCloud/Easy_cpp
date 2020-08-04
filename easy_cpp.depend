@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1596501355 source:c:\users\user\desktop\c++\easy_cpp\main.cpp
+	<iostream>
+	<vector>
+	<deque>
+	"mylib.h"
+	"is_stl_container.h"
+
+1596501458 c:\users\user\desktop\c++\easy_cpp\mylib.h
+	<iostream>
+	<numeric>
+
+1596497734 c:\users\user\desktop\c++\easy_cpp\is_stl_container.h
+	<deque>
+	<forward_list>
+	<list>
+	<map>
+	<queue>
+	<set>
+	<stack>
+	<string>
+	<tuple>
+	<type_traits>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<vector>
+	<type_traits>
+
